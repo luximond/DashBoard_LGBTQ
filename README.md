@@ -18,8 +18,8 @@ This project leans on two surveys directed to European LGBT volonteers, and form
                 - The answer (answer)<br>
 2/ "LGBT_Survey_ViolenceAndHarassment.csv" (renommé "LGBT_Survey")
 
-This raw data set is of size 45356*6.
-The 6 variables are the same as for the first data set.
+        This raw data set is of size 45356*6.
+        The 6 variables are the same as for the first data set.
 ## R packages setup :
 Code : 
     
