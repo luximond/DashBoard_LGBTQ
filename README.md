@@ -9,13 +9,13 @@ This project leans on two surveys directed to European LGBT volonteers, and form
 ## Used data :<br>
 1/ "LGBT_Survey_DailyLife.csv"
 
-This raw data set is of size 34021*6.
-The 6 variables are :
-        - The country (CountryCode) -> European countries
-        - The LGBT community's subset (subset) -> Lesbian, Gay, Bisexual Woman, etc...
-        - The question code (question_code)
-        - The written question (question_label)
-        - The answer (answer)<br>
+        This raw data set is of size 34021*6.
+        The 6 variables are :
+                - The country (CountryCode) -> European countries
+                - The LGBT community's subset (subset) -> Lesbian, Gay, Bisexual Woman, etc...
+                - The question code (question_code)
+                - The written question (question_label)
+                - The answer (answer)<br>
 2/ "LGBT_Survey_ViolenceAndHarassment.csv" (renommé "LGBT_Survey")
 
 This raw data set is of size 45356*6.
