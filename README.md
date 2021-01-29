@@ -17,18 +17,10 @@ This project leans on two surveys directed to European LGBT volonteers, and form
                 - The written question (question_label)
                 - The answer (answer)<br>
 2/ "LGBT_Survey_ViolenceAndHarassment.csv" (renommé "LGBT_Survey")
-
+        
         This raw data set is of size 45356*6.
         The 6 variables are the same as for the first data set.
-## R packages setup :
-Code : 
-    
-    install.packages("shiny")
-    install.packages("dplyr")
-    install.packages("geojsonio")
-    install.packages("leaflet")
-    install.packages("ggplot2")
-    install.packages("shinythemes")
+
 ## Python packages setup :
 Code : 
     
@@ -36,6 +28,5 @@ Code :
     OR
     conda install -c conda-forge folium
 ## Script :
-R : Simply open the app.R file with RStudio and then "Run App" for its execution.
 
 Pyhton : Run with the command "python Dashboard.py".
